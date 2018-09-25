@@ -1,0 +1,24 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.demo.storage.StorageProperties",
+      "name": "storage",
+      "type": "com.example.demo.storage.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.demo.storage.StorageProperties",
+      "defaultValue": "upload-dir",
+      "name": "storage.location",
+      "description": "Folder location for storing files",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.example.demo.storage.StorageProperties",
+      "name": "storage.wechaturl",
+      "type": "java.lang.String"
+    }
+  ]
+}
